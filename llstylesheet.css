@@ -1,0 +1,96 @@
+
+
+body {
+	font-size:16px;
+	margin:0;
+
+
+  }
+ h2{
+ 	text-align: center;
+ }
+
+#header-nav{
+  	background-color: #1111;
+  	height: 54px;
+  	border-radius: 0;
+  	border:0
+  }
+
+.navbar-brand h1 {  
+ 	font-family : 'helvitica' , serif ;
+ 	color: black;
+ 	font-size: 1.5em;
+ 	font-weight: bold;
+ 	text-transform: uppercase;
+ 	position:left;
+
+ }
+.container-fluid{
+	margin: 0;
+	padding: 0;
+
+
+}
+
+ h1{
+ position: relative;
+ margin-left: 1px;
+ margin-top: -2px;
+ margin-bottom: 2px;
+ }
+
+ a {
+ 	text-decoration-line: none;
+ }
+ .navbar-brand a:hover, .navnar-brand a:focus {
+ 	text-decoration:none;
+ }
+ #nav-list {
+ 	margin-top:5px; 
+ 	background-color:white;
+ 	position: absolute;
+    z-index: 20;
+    width: 100%
+ }
+ #nav-list a{
+ 	color: black;
+ 	text-align: center;
+ 	font-weight: bold;
+ 	border: 1px solid black;
+
+ }
+
+#nav-list a:hover 
+ .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+ 	border: 1px solid black;
+ }
+.navbar-default .navbar-toggle {
+    border-color: 2px solid black;
+}
+
+ section {
+ 	box-sizing: border-box;
+	padding: 10px;
+	width:100%;
+	height: 1000px;
+	margin:20px;
+	margin-left:0px;
+	margin-right: 0px;
+	margin-top: 10px;
+	border: 2px solid black;
+	position:relative;
+	background-color: lightgray;
+    padding-left: 10px;
+    padding-top: 10px;
+
+	  }
+h2 p{
+	font-family: 'helvitica';
+	font-style: italic;
+	font-size: 1.5em;
+}	  
+#chicken {
+	text-align: center;
+	font-weight: bold;
+}
